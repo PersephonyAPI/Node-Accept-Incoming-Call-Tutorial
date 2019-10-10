@@ -1,4 +1,4 @@
-# Node Accept Incoming Call Tutorial
+# Node - Accept Incoming Call Tutorial
 
 This project serves as a guide to help you build an application with Persephony. Specifically, the project will:
 
@@ -8,7 +8,7 @@ This project serves as a guide to help you build an application with Persephony.
 
 To get started using a persephony account, follow the instructions [here](https://persephony-docs.readme.io/docs/getting-started-with-persephony).
 
-## Setting up the Incoming Call Tutorial
+## Setting up the Tutorial
 
 1. Install the node packages necessary using command:
 
